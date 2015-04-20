@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: f557868b5961542499000f29dd7b7048
+timeCreated: 1429478746
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Icosphere
+    100004: Icosphere_cell_000
+    100006: Icosphere_cell_001
+    100008: Icosphere_cell_002
+    100010: Icosphere_cell_004
+    100012: Icosphere_cell_005
+    100014: Icosphere_cell_006
+    100016: Icosphere_cell_008
+    100018: Icosphere_cell_009
+    100020: Icosphere_cell_010
+    100022: Icosphere_cell_011
+    100024: Icosphere_cell_012
+    100026: Icosphere_cell_013
+    100028: Icosphere_cell_018
+    100030: Icosphere_cell_019
+    100032: Icosphere_cell_020
+    100034: Icosphere_cell_024
+    100036: Icosphere_cell_026
+    100038: Icosphere_cell_029
+    100040: Icosphere_cell_030
+    100042: Icosphere_cell_034
+    100044: Icosphere_cell_035
+    100046: Icosphere_cell_037
+    100048: Icosphere_cell_038
+    100050: Icosphere_cell_039
+    100052: Icosphere_cell_040
+    100054: Icosphere_cell_041
+    100056: Icosphere_cell_042
+    100058: Icosphere_cell_044
+    100060: Icosphere_cell_055
+    100062: //RootNode
+    400000: Armature
+    400002: Icosphere
+    400004: Icosphere_cell_000
+    400006: Icosphere_cell_001
+    400008: Icosphere_cell_002
+    400010: Icosphere_cell_004
+    400012: Icosphere_cell_005
+    400014: Icosphere_cell_006
+    400016: Icosphere_cell_008
+    400018: Icosphere_cell_009
+    400020: Icosphere_cell_010
+    400022: Icosphere_cell_011
+    400024: Icosphere_cell_012
+    400026: Icosphere_cell_013
+    400028: Icosphere_cell_018
+    400030: Icosphere_cell_019
+    400032: Icosphere_cell_020
+    400034: Icosphere_cell_024
+    400036: Icosphere_cell_026
+    400038: Icosphere_cell_029
+    400040: Icosphere_cell_030
+    400042: Icosphere_cell_034
+    400044: Icosphere_cell_035
+    400046: Icosphere_cell_037
+    400048: Icosphere_cell_038
+    400050: Icosphere_cell_039
+    400052: Icosphere_cell_040
+    400054: Icosphere_cell_041
+    400056: Icosphere_cell_042
+    400058: Icosphere_cell_044
+    400060: Icosphere_cell_055
+    400062: //RootNode
+    2300000: Icosphere
+    3300000: Icosphere
+    4300000: Icosphere_cell_055
+    4300002: Icosphere
+    7400000: Default Take
+    7400002: Action
+    9500000: //RootNode
+    13700000: Icosphere_cell_055
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
